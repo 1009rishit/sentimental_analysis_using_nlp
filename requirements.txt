@@ -1,0 +1,7 @@
+gradio
+nltk==3.8.1
+textblob==0.17.1
+vaderSentiment==3.3.2
+scikit-learn==1.2.2
+pandas==1.5.3
+groq
